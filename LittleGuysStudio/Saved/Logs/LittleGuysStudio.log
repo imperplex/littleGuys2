@@ -1754,3 +1754,649 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-20.17.23:862][ 65]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.26-20.17.23:862][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.26-20.17.23:862][ 65]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.26-20.18.17:852][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_2)
+[2021.10.26-20.18.19:345][ 63]Cmd: EDIT COPY
+[2021.10.26-20.18.19:707][106]Cmd: EDIT PASTE
+[2021.10.26-20.18.19:920][128]Cmd: EDIT PASTE
+[2021.10.26-20.18.20:091][145]Cmd: EDIT PASTE
+[2021.10.26-20.18.20:255][161]Cmd: EDIT PASTE
+[2021.10.26-20.18.20:401][175]Cmd: EDIT PASTE
+[2021.10.26-20.18.20:554][189]Cmd: EDIT PASTE
+[2021.10.26-20.18.20:715][205]Cmd: EDIT PASTE
+[2021.10.26-20.18.24:299][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_86)
+[2021.10.26-20.18.27:218][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_85)
+[2021.10.26-20.18.30:907][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_84)
+[2021.10.26-20.18.36:676][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_83)
+[2021.10.26-20.18.40:110][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_82)
+[2021.10.26-20.18.43:941][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_81)
+[2021.10.26-20.18.47:672][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_2)
+[2021.10.26-20.18.50:610][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_82)
+[2021.10.26-20.18.51:793][811]Cmd: EDIT COPY
+[2021.10.26-20.18.52:193][859]Cmd: EDIT PASTE
+[2021.10.26-20.18.52:395][880]Cmd: EDIT PASTE
+[2021.10.26-20.18.52:572][898]Cmd: EDIT PASTE
+[2021.10.26-20.18.52:756][917]Cmd: EDIT PASTE
+[2021.10.26-20.18.52:917][933]Cmd: EDIT PASTE
+[2021.10.26-20.18.53:094][951]Cmd: EDIT PASTE
+[2021.10.26-20.18.53:270][969]Cmd: EDIT PASTE
+[2021.10.26-20.18.53:440][986]Cmd: EDIT PASTE
+[2021.10.26-20.18.53:633][  6]Cmd: EDIT PASTE
+[2021.10.26-20.18.53:821][ 25]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:005][ 43]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:174][ 60]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:365][ 79]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:556][ 98]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:751][118]Cmd: EDIT PASTE
+[2021.10.26-20.18.54:923][135]Cmd: EDIT PASTE
+[2021.10.26-20.18.55:095][152]Cmd: EDIT PASTE
+[2021.10.26-20.18.59:190][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_103)
+[2021.10.26-20.19.04:432][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_102)
+[2021.10.26-20.19.07:396][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_101)
+[2021.10.26-20.19.12:492][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_100)
+[2021.10.26-20.19.19:588][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_99)
+[2021.10.26-20.19.23:306][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_98)
+[2021.10.26-20.19.27:030][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_97)
+[2021.10.26-20.19.36:449][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_96)
+[2021.10.26-20.19.41:825][281]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.26-20.19.42:462][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.19.43:496][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_95)
+[2021.10.26-20.19.55:956][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_94)
+[2021.10.26-20.20.00:295][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_93)
+[2021.10.26-20.20.06:277][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_103)
+[2021.10.26-20.20.08:706][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_93)
+[2021.10.26-20.20.09:578][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_94)
+[2021.10.26-20.20.12:032][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_93)
+[2021.10.26-20.20.18:133][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_102)
+[2021.10.26-20.20.20:675][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_101)
+[2021.10.26-20.20.25:581][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_92)
+[2021.10.26-20.20.30:807][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_91)
+[2021.10.26-20.20.35:491][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_90)
+[2021.10.26-20.20.38:363][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_89)
+[2021.10.26-20.20.41:956][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_88)
+[2021.10.26-20.20.44:569][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_89)
+[2021.10.26-20.20.52:742][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_88)
+[2021.10.26-20.20.55:053][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_93)
+[2021.10.26-20.20.58:683][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_89)
+[2021.10.26-20.21.03:388][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_88)
+[2021.10.26-20.21.05:691][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_90)
+[2021.10.26-20.21.07:684][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_89)
+[2021.10.26-20.21.11:567][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_93)
+[2021.10.26-20.21.25:695][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_91)
+[2021.10.26-20.21.26:730][970]Cmd: EDIT COPY
+[2021.10.26-20.21.27:041][998]Cmd: EDIT PASTE
+[2021.10.26-20.21.27:249][ 15]Cmd: EDIT PASTE
+[2021.10.26-20.21.27:426][ 29]Cmd: EDIT PASTE
+[2021.10.26-20.21.27:615][ 44]Cmd: EDIT PASTE
+[2021.10.26-20.21.27:825][ 61]Cmd: EDIT PASTE
+[2021.10.26-20.21.28:039][ 78]Cmd: EDIT PASTE
+[2021.10.26-20.21.28:253][ 95]Cmd: EDIT PASTE
+[2021.10.26-20.21.28:460][111]Cmd: EDIT PASTE
+[2021.10.26-20.21.28:664][126]Cmd: EDIT PASTE
+[2021.10.26-20.21.28:888][143]Cmd: EDIT PASTE
+[2021.10.26-20.21.29:101][159]Cmd: EDIT PASTE
+[2021.10.26-20.21.29:315][175]Cmd: EDIT PASTE
+[2021.10.26-20.21.29:527][191]Cmd: EDIT PASTE
+[2021.10.26-20.21.29:718][205]Cmd: EDIT PASTE
+[2021.10.26-20.21.29:924][220]Cmd: EDIT PASTE
+[2021.10.26-20.21.34:599][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_118)
+[2021.10.26-20.21.37:745][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_117)
+[2021.10.26-20.21.42:445][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_116)
+[2021.10.26-20.22.17:312][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_115)
+[2021.10.26-20.22.21:224][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_114)
+[2021.10.26-20.22.24:701][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_113)
+[2021.10.26-20.22.28:325][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_112)
+[2021.10.26-20.22.31:885][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.22.35:621][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_111)
+[2021.10.26-20.22.38:333][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_110)
+[2021.10.26-20.22.41:295][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_109)
+[2021.10.26-20.22.44:781][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_108)
+[2021.10.26-20.22.47:632][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_107)
+[2021.10.26-20.22.51:562][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_106)
+[2021.10.26-20.22.56:030][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_105)
+[2021.10.26-20.22.56:800][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_106)
+[2021.10.26-20.22.59:114][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_105)
+[2021.10.26-20.23.02:141][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_91)
+[2021.10.26-20.23.07:216][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_105)
+[2021.10.26-20.23.08:725][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_89)
+[2021.10.26-20.23.13:737][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_94)
+[2021.10.26-20.23.21:310][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_105)
+[2021.10.26-20.23.22:467][594]Cmd: EDIT COPY
+[2021.10.26-20.23.22:879][641]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:058][659]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:244][678]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:425][696]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:607][713]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:786][731]Cmd: EDIT PASTE
+[2021.10.26-20.23.23:970][749]Cmd: EDIT PASTE
+[2021.10.26-20.23.24:147][766]Cmd: EDIT PASTE
+[2021.10.26-20.23.24:316][782]Cmd: EDIT PASTE
+[2021.10.26-20.23.24:526][802]Cmd: EDIT PASTE
+[2021.10.26-20.23.24:711][819]Cmd: EDIT PASTE
+[2021.10.26-20.23.27:461][108]Cmd: EDIT PASTE
+[2021.10.26-20.23.27:667][126]Cmd: EDIT PASTE
+[2021.10.26-20.23.27:838][141]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:004][155]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:182][170]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:354][184]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:533][199]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:717][214]Cmd: EDIT PASTE
+[2021.10.26-20.23.28:891][228]Cmd: EDIT PASTE
+[2021.10.26-20.23.29:044][240]Cmd: EDIT PASTE
+[2021.10.26-20.23.29:225][254]Cmd: EDIT PASTE
+[2021.10.26-20.23.29:402][268]Cmd: EDIT PASTE
+[2021.10.26-20.23.29:547][279]Cmd: EDIT PASTE
+[2021.10.26-20.23.32:849][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_142)
+[2021.10.26-20.23.35:714][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_141)
+[2021.10.26-20.23.39:281][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_140)
+[2021.10.26-20.23.43:350][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_139)
+[2021.10.26-20.23.47:616][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_138)
+[2021.10.26-20.23.51:134][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_137)
+[2021.10.26-20.23.54:626][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_136)
+[2021.10.26-20.23.57:885][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_135)
+[2021.10.26-20.24.08:456][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_134)
+[2021.10.26-20.24.11:671][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_133)
+[2021.10.26-20.24.16:058][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_132)
+[2021.10.26-20.24.19:793][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_131)
+[2021.10.26-20.24.23:204][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_130)
+[2021.10.26-20.24.27:507][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_129)
+[2021.10.26-20.24.34:056][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_128)
+[2021.10.26-20.24.39:209][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_127)
+[2021.10.26-20.24.43:214][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_126)
+[2021.10.26-20.24.46:723][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_125)
+[2021.10.26-20.24.50:861][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_124)
+[2021.10.26-20.24.56:135][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_123)
+[2021.10.26-20.24.59:227][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_127)
+[2021.10.26-20.24.59:742][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_123)
+[2021.10.26-20.25.00:501][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_122)
+[2021.10.26-20.25.03:680][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_121)
+[2021.10.26-20.25.07:556][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_120)
+[2021.10.26-20.25.32:243][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_120)
+[2021.10.26-20.25.33:927][472]Cmd: EDIT COPY
+[2021.10.26-20.25.34:391][527]Cmd: EDIT PASTE
+[2021.10.26-20.25.34:603][549]Cmd: EDIT PASTE
+[2021.10.26-20.25.34:770][565]Cmd: EDIT PASTE
+[2021.10.26-20.25.34:938][581]Cmd: EDIT PASTE
+[2021.10.26-20.25.35:111][598]Cmd: EDIT PASTE
+[2021.10.26-20.25.35:279][615]Cmd: EDIT PASTE
+[2021.10.26-20.25.35:460][633]Cmd: EDIT PASTE
+[2021.10.26-20.25.35:658][653]Cmd: EDIT PASTE
+[2021.10.26-20.25.35:836][670]Cmd: EDIT PASTE
+[2021.10.26-20.25.36:030][690]Cmd: EDIT PASTE
+[2021.10.26-20.25.36:226][710]Cmd: EDIT PASTE
+[2021.10.26-20.25.36:441][732]Cmd: EDIT PASTE
+[2021.10.26-20.25.36:628][749]Cmd: EDIT PASTE
+[2021.10.26-20.25.36:841][771]Cmd: EDIT PASTE
+[2021.10.26-20.25.37:059][793]Cmd: EDIT PASTE
+[2021.10.26-20.25.37:257][813]Cmd: EDIT PASTE
+[2021.10.26-20.25.37:499][837]Cmd: EDIT PASTE
+[2021.10.26-20.25.37:723][859]Cmd: EDIT PASTE
+[2021.10.26-20.25.37:942][880]Cmd: EDIT PASTE
+[2021.10.26-20.25.38:180][902]Cmd: EDIT PASTE
+[2021.10.26-20.25.38:406][923]Cmd: EDIT PASTE
+[2021.10.26-20.25.39:061][989]Cmd: EDIT PASTE
+[2021.10.26-20.25.39:993][ 83]Cmd: EDIT PASTE
+[2021.10.26-20.25.40:224][104]Cmd: EDIT PASTE
+[2021.10.26-20.25.40:407][120]Cmd: EDIT PASTE
+[2021.10.26-20.25.40:621][139]Cmd: EDIT PASTE
+[2021.10.26-20.25.40:848][159]Cmd: EDIT PASTE
+[2021.10.26-20.25.41:492][219]Cmd: EDIT PASTE
+[2021.10.26-20.25.42:004][266]Cmd: EDIT PASTE
+[2021.10.26-20.25.42:398][300]Cmd: EDIT PASTE
+[2021.10.26-20.25.42:616][318]Cmd: EDIT PASTE
+[2021.10.26-20.25.42:890][340]Cmd: EDIT PASTE
+[2021.10.26-20.25.43:125][359]Cmd: EDIT PASTE
+[2021.10.26-20.25.43:416][383]Cmd: EDIT PASTE
+[2021.10.26-20.25.43:695][405]Cmd: EDIT PASTE
+[2021.10.26-20.25.44:056][435]Cmd: EDIT PASTE
+[2021.10.26-20.25.44:313][455]Cmd: EDIT PASTE
+[2021.10.26-20.25.44:565][475]Cmd: EDIT PASTE
+[2021.10.26-20.25.44:934][504]Cmd: EDIT PASTE
+[2021.10.26-20.25.45:125][518]Cmd: EDIT PASTE
+[2021.10.26-20.25.45:395][539]Cmd: EDIT PASTE
+[2021.10.26-20.25.45:642][558]Cmd: EDIT PASTE
+[2021.10.26-20.25.49:444][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_184)
+[2021.10.26-20.25.53:508][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_183)
+[2021.10.26-20.25.56:260][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_182)
+[2021.10.26-20.26.04:314][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_183)
+[2021.10.26-20.26.07:238][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_181)
+[2021.10.26-20.26.13:378][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_180)
+[2021.10.26-20.26.16:538][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_179)
+[2021.10.26-20.26.20:148][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_178)
+[2021.10.26-20.26.23:558][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_177)
+[2021.10.26-20.26.28:470][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_176)
+[2021.10.26-20.26.33:899][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_175)
+[2021.10.26-20.26.36:960][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_174)
+[2021.10.26-20.26.39:188][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_173)
+[2021.10.26-20.26.41:902][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_172)
+[2021.10.26-20.26.44:829][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_171)
+[2021.10.26-20.26.47:331][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_170)
+[2021.10.26-20.26.50:017][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_173)
+[2021.10.26-20.26.51:872][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_174)
+[2021.10.26-20.26.53:378][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.26.54:137][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_169)
+[2021.10.26-20.26.56:563][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_168)
+[2021.10.26-20.26.59:318][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_167)
+[2021.10.26-20.27.01:920][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_166)
+[2021.10.26-20.27.04:366][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_165)
+[2021.10.26-20.27.06:959][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_164)
+[2021.10.26-20.27.10:477][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_165)
+[2021.10.26-20.27.14:919][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_163)
+[2021.10.26-20.27.19:121][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_162)
+[2021.10.26-20.27.22:543][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_161)
+[2021.10.26-20.27.25:421][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_160)
+[2021.10.26-20.27.28:978][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_159)
+[2021.10.26-20.27.32:429][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_158)
+[2021.10.26-20.27.37:376][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_157)
+[2021.10.26-20.27.40:591][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_156)
+[2021.10.26-20.27.43:959][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_155)
+[2021.10.26-20.27.48:707][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_154)
+[2021.10.26-20.27.52:458][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_153)
+[2021.10.26-20.27.56:334][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_152)
+[2021.10.26-20.28.00:567][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_151)
+[2021.10.26-20.28.04:403][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_150)
+[2021.10.26-20.28.08:775][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_149)
+[2021.10.26-20.28.12:241][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_148)
+[2021.10.26-20.28.15:443][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_147)
+[2021.10.26-20.28.20:845][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_146)
+[2021.10.26-20.28.23:990][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_145)
+[2021.10.26-20.28.26:697][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_144)
+[2021.10.26-20.28.38:765][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_144)
+[2021.10.26-20.28.39:630][828]Cmd: EDIT COPY
+[2021.10.26-20.28.40:002][865]Cmd: EDIT PASTE
+[2021.10.26-20.28.40:231][885]Cmd: EDIT PASTE
+[2021.10.26-20.28.40:424][902]Cmd: EDIT PASTE
+[2021.10.26-20.28.40:623][919]Cmd: EDIT PASTE
+[2021.10.26-20.28.40:798][934]Cmd: EDIT PASTE
+[2021.10.26-20.28.40:999][951]Cmd: EDIT PASTE
+[2021.10.26-20.28.41:185][966]Cmd: EDIT PASTE
+[2021.10.26-20.28.41:383][983]Cmd: EDIT PASTE
+[2021.10.26-20.28.41:563][998]Cmd: EDIT PASTE
+[2021.10.26-20.28.41:748][ 13]Cmd: EDIT PASTE
+[2021.10.26-20.28.41:934][ 28]Cmd: EDIT PASTE
+[2021.10.26-20.28.42:117][ 42]Cmd: EDIT PASTE
+[2021.10.26-20.28.42:310][ 57]Cmd: EDIT PASTE
+[2021.10.26-20.28.42:492][ 71]Cmd: EDIT PASTE
+[2021.10.26-20.28.42:670][ 84]Cmd: EDIT PASTE
+[2021.10.26-20.28.42:866][ 99]Cmd: EDIT PASTE
+[2021.10.26-20.28.43:064][114]Cmd: EDIT PASTE
+[2021.10.26-20.28.43:261][128]Cmd: EDIT PASTE
+[2021.10.26-20.28.43:453][142]Cmd: EDIT PASTE
+[2021.10.26-20.28.43:657][157]Cmd: EDIT PASTE
+[2021.10.26-20.28.43:864][172]Cmd: EDIT PASTE
+[2021.10.26-20.28.44:114][191]Cmd: EDIT PASTE
+[2021.10.26-20.28.44:367][210]Cmd: EDIT PASTE
+[2021.10.26-20.28.50:093][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_207)
+[2021.10.26-20.28.54:433][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_206)
+[2021.10.26-20.28.57:894][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_205)
+[2021.10.26-20.29.01:762][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_204)
+[2021.10.26-20.29.04:694][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_203)
+[2021.10.26-20.29.05:944][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_204)
+[2021.10.26-20.29.07:806][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_203)
+[2021.10.26-20.29.12:840][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_202)
+[2021.10.26-20.29.19:643][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.29.21:033][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_202)
+[2021.10.26-20.29.23:032][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.29.24:532][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_201)
+[2021.10.26-20.29.24:959][465]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.10.26-20.29.30:757][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_200)
+[2021.10.26-20.29.31:834][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_201)
+[2021.10.26-20.29.36:294][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_200)
+[2021.10.26-20.29.40:530][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.29.41:378][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_200)
+[2021.10.26-20.29.42:954][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.29.43:804][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_199)
+[2021.10.26-20.29.47:083][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_198)
+[2021.10.26-20.29.51:473][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_197)
+[2021.10.26-20.29.55:756][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_196)
+[2021.10.26-20.29.59:419][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_195)
+[2021.10.26-20.30.02:396][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_194)
+[2021.10.26-20.30.04:875][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.30.05:634][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_194)
+[2021.10.26-20.30.07:572][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.30.18:230][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_202)
+[2021.10.26-20.30.20:390][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_201)
+[2021.10.26-20.30.22:434][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_198)
+[2021.10.26-20.30.23:258][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_201)
+[2021.10.26-20.30.24:855][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_200)
+[2021.10.26-20.30.27:624][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_197)
+[2021.10.26-20.30.29:616][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_194)
+[2021.10.26-20.30.45:318][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_193)
+[2021.10.26-20.30.49:902][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_192)
+[2021.10.26-20.30.53:132][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_191)
+[2021.10.26-20.30.56:538][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_190)
+[2021.10.26-20.30.59:603][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_189)
+[2021.10.26-20.31.02:616][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_188)
+[2021.10.26-20.31.06:049][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_187)
+[2021.10.26-20.31.09:824][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.31.10:862][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_186)
+[2021.10.26-20.31.22:001][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_190)
+[2021.10.26-20.31.23:119][162]Cmd: EDIT COPY
+[2021.10.26-20.31.23:461][199]Cmd: EDIT PASTE
+[2021.10.26-20.31.23:683][219]Cmd: EDIT PASTE
+[2021.10.26-20.31.23:875][237]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:042][252]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:236][270]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:401][285]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:583][301]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:765][317]Cmd: EDIT PASTE
+[2021.10.26-20.31.24:952][333]Cmd: EDIT PASTE
+[2021.10.26-20.31.25:138][348]Cmd: EDIT PASTE
+[2021.10.26-20.31.25:328][364]Cmd: EDIT PASTE
+[2021.10.26-20.31.25:526][381]Cmd: EDIT PASTE
+[2021.10.26-20.31.25:722][397]Cmd: EDIT PASTE
+[2021.10.26-20.31.25:927][414]Cmd: EDIT PASTE
+[2021.10.26-20.31.26:121][430]Cmd: EDIT PASTE
+[2021.10.26-20.31.26:326][446]Cmd: EDIT PASTE
+[2021.10.26-20.31.26:549][464]Cmd: EDIT PASTE
+[2021.10.26-20.31.26:866][490]Cmd: EDIT PASTE
+[2021.10.26-20.31.27:081][507]Cmd: EDIT PASTE
+[2021.10.26-20.31.27:351][529]Cmd: EDIT PASTE
+[2021.10.26-20.31.27:826][568]Cmd: EDIT PASTE
+[2021.10.26-20.31.28:222][599]Cmd: EDIT PASTE
+[2021.10.26-20.31.34:707][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_229)
+[2021.10.26-20.31.40:420][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_228)
+[2021.10.26-20.31.54:344][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_227)
+[2021.10.26-20.32.03:610][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_227)
+[2021.10.26-20.32.06:391][760]Cmd: DELETE
+[2021.10.26-20.32.06:392][760]Cmd: ACTOR DELETE
+[2021.10.26-20.32.06:398][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.32.06:404][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.10.26-20.32.06:406][760]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.10.26-20.32.11:046][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_226)
+[2021.10.26-20.32.17:309][731]Cmd: DELETE
+[2021.10.26-20.32.17:309][731]Cmd: ACTOR DELETE
+[2021.10.26-20.32.17:315][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.32.17:320][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.10.26-20.32.17:322][731]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.10.26-20.32.21:118][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_225)
+[2021.10.26-20.32.26:732][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_224)
+[2021.10.26-20.32.32:406][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_223)
+[2021.10.26-20.32.37:368][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_222)
+[2021.10.26-20.32.41:323][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_221)
+[2021.10.26-20.32.45:346][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_220)
+[2021.10.26-20.32.50:702][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_221)
+[2021.10.26-20.32.52:942][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_220)
+[2021.10.26-20.32.55:891][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_219)
+[2021.10.26-20.33.07:557][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_218)
+[2021.10.26-20.33.11:697][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_217)
+[2021.10.26-20.33.14:984][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_216)
+[2021.10.26-20.33.22:421][402]Cmd: DELETE
+[2021.10.26-20.33.22:421][402]Cmd: ACTOR DELETE
+[2021.10.26-20.33.22:426][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.33.22:432][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.26-20.33.22:434][402]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.10.26-20.33.23:390][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_215)
+[2021.10.26-20.33.29:122][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_214)
+[2021.10.26-20.33.32:169][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_213)
+[2021.10.26-20.33.36:131][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_212)
+[2021.10.26-20.33.38:980][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_211)
+[2021.10.26-20.33.44:558][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_210)
+[2021.10.26-20.33.47:831][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_209)
+[2021.10.26-20.33.51:427][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_190)
+[2021.10.26-20.33.54:966][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_209)
+[2021.10.26-20.33.58:254][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_190)
+[2021.10.26-20.34.11:081][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.34.11:874][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_211)
+[2021.10.26-20.34.13:851][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.34.14:176][866]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.10.26-20.34.21:569][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_228)
+[2021.10.26-20.34.22:927][713]Cmd: DELETE
+[2021.10.26-20.34.22:927][713]Cmd: ACTOR DELETE
+[2021.10.26-20.34.22:932][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.34.22:937][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.26-20.34.22:939][713]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.10.26-20.34.23:822][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_229)
+[2021.10.26-20.34.25:513][922]Cmd: EDIT COPY
+[2021.10.26-20.34.25:968][958]Cmd: EDIT PASTE
+[2021.10.26-20.34.30:465][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.35.26:277][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.26-20.35.26:341][106]LogSavePackage: Moving 'D:/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap_Auto3ED9736EC40CD333CB94DCDA403785BE4.tmp' to 'D:/littleGuys2/LittleGuysStudio/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.10.26-20.35.26:341][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.069
+[2021.10.26-20.35.26:342][106]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2021.10.26-20.35.53:099][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_209)
+[2021.10.26-20.35.54:125][231]Cmd: EDIT COPY
+[2021.10.26-20.35.54:460][271]Cmd: EDIT PASTE
+[2021.10.26-20.35.54:674][293]Cmd: EDIT PASTE
+[2021.10.26-20.35.54:862][312]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:033][329]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:210][347]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:374][363]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:545][380]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:724][398]Cmd: EDIT PASTE
+[2021.10.26-20.35.55:897][415]Cmd: EDIT PASTE
+[2021.10.26-20.35.56:072][432]Cmd: EDIT PASTE
+[2021.10.26-20.35.56:272][452]Cmd: EDIT PASTE
+[2021.10.26-20.35.56:467][471]Cmd: EDIT PASTE
+[2021.10.26-20.35.56:665][491]Cmd: EDIT PASTE
+[2021.10.26-20.35.56:881][512]Cmd: EDIT PASTE
+[2021.10.26-20.35.57:083][531]Cmd: EDIT PASTE
+[2021.10.26-20.35.57:302][552]Cmd: EDIT PASTE
+[2021.10.26-20.35.57:510][572]Cmd: EDIT PASTE
+[2021.10.26-20.35.57:714][592]Cmd: EDIT PASTE
+[2021.10.26-20.35.57:897][609]Cmd: EDIT PASTE
+[2021.10.26-20.35.58:100][628]Cmd: EDIT PASTE
+[2021.10.26-20.35.58:314][648]Cmd: EDIT PASTE
+[2021.10.26-20.35.58:542][669]Cmd: EDIT PASTE
+[2021.10.26-20.35.58:779][691]Cmd: EDIT PASTE
+[2021.10.26-20.35.59:042][715]Cmd: EDIT PASTE
+[2021.10.26-20.35.59:262][735]Cmd: EDIT PASTE
+[2021.10.26-20.35.59:510][758]Cmd: EDIT PASTE
+[2021.10.26-20.35.59:727][777]Cmd: EDIT PASTE
+[2021.10.26-20.35.59:956][797]Cmd: EDIT PASTE
+[2021.10.26-20.36.00:162][814]Cmd: EDIT PASTE
+[2021.10.26-20.36.00:357][830]Cmd: EDIT PASTE
+[2021.10.26-20.36.00:557][846]Cmd: EDIT PASTE
+[2021.10.26-20.36.00:757][862]Cmd: EDIT PASTE
+[2021.10.26-20.36.00:977][880]Cmd: EDIT PASTE
+[2021.10.26-20.36.01:180][896]Cmd: EDIT PASTE
+[2021.10.26-20.36.01:403][913]Cmd: EDIT PASTE
+[2021.10.26-20.36.01:659][934]Cmd: EDIT PASTE
+[2021.10.26-20.36.01:915][954]Cmd: EDIT PASTE
+[2021.10.26-20.36.02:142][970]Cmd: EDIT PASTE
+[2021.10.26-20.36.02:363][987]Cmd: EDIT PASTE
+[2021.10.26-20.36.02:611][  6]Cmd: EDIT PASTE
+[2021.10.26-20.36.02:838][ 23]Cmd: EDIT PASTE
+[2021.10.26-20.36.03:075][ 41]Cmd: EDIT PASTE
+[2021.10.26-20.36.03:438][ 69]Cmd: EDIT PASTE
+[2021.10.26-20.36.08:827][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_269)
+[2021.10.26-20.36.12:223][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_268)
+[2021.10.26-20.36.15:521][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_267)
+[2021.10.26-20.36.19:526][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_266)
+[2021.10.26-20.36.24:133][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_265)
+[2021.10.26-20.36.33:372][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_264)
+[2021.10.26-20.36.37:045][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.36.37:855][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_263)
+[2021.10.26-20.36.41:835][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.36.42:752][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_263)
+[2021.10.26-20.36.45:485][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.36.46:362][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_262)
+[2021.10.26-20.36.50:796][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_261)
+[2021.10.26-20.36.54:500][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_260)
+[2021.10.26-20.36.57:684][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_259)
+[2021.10.26-20.37.06:600][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_264)
+[2021.10.26-20.37.07:304][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_259)
+[2021.10.26-20.37.07:983][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_264)
+[2021.10.26-20.37.10:546][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_265)
+[2021.10.26-20.37.12:806][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_264)
+[2021.10.26-20.37.16:111][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_263)
+[2021.10.26-20.37.37:409][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_258)
+[2021.10.26-20.37.40:664][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_257)
+[2021.10.26-20.37.44:789][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.37.45:601][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_257)
+[2021.10.26-20.37.51:421][322]Cmd: DELETE
+[2021.10.26-20.37.51:421][322]Cmd: ACTOR DELETE
+[2021.10.26-20.37.51:428][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.37.51:434][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.26-20.37.51:436][322]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.26-20.37.52:257][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_256)
+[2021.10.26-20.37.55:568][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.37.56:351][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_256)
+[2021.10.26-20.37.58:713][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.37.59:842][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_255)
+[2021.10.26-20.38.03:115][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.38.03:803][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_254)
+[2021.10.26-20.38.07:174][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_253)
+[2021.10.26-20.38.10:916][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_252)
+[2021.10.26-20.38.14:775][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.38.15:706][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_251)
+[2021.10.26-20.38.23:368][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_253)
+[2021.10.26-20.38.28:598][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.38.37:478][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_250)
+[2021.10.26-20.38.40:892][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_249)
+[2021.10.26-20.38.44:086][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_248)
+[2021.10.26-20.38.47:243][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_247)
+[2021.10.26-20.38.51:185][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_246)
+[2021.10.26-20.38.54:888][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_245)
+[2021.10.26-20.38.55:987][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_246)
+[2021.10.26-20.38.58:043][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_245)
+[2021.10.26-20.39.01:977][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_244)
+[2021.10.26-20.39.02:921][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_245)
+[2021.10.26-20.39.07:515][135]Cmd: DELETE
+[2021.10.26-20.39.07:515][135]Cmd: ACTOR DELETE
+[2021.10.26-20.39.07:522][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.39.07:529][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.26-20.39.07:531][135]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.26-20.39.08:525][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_244)
+[2021.10.26-20.39.12:133][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.39.13:085][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_244)
+[2021.10.26-20.39.15:418][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.39.19:822][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.39.27:034][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_247)
+[2021.10.26-20.39.28:158][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.39.30:270][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.39.33:274][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.40.11:064][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_242)
+[2021.10.26-20.40.14:855][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_241)
+[2021.10.26-20.40.18:742][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_240)
+[2021.10.26-20.40.21:483][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_239)
+[2021.10.26-20.40.24:136][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_238)
+[2021.10.26-20.40.27:428][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_237)
+[2021.10.26-20.40.31:647][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_236)
+[2021.10.26-20.40.35:038][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_235)
+[2021.10.26-20.40.37:907][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_234)
+[2021.10.26-20.40.40:719][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_233)
+[2021.10.26-20.40.43:633][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_232)
+[2021.10.26-20.40.46:517][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_228)
+[2021.10.26-20.40.50:458][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_227)
+[2021.10.26-20.40.54:419][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_226)
+[2021.10.26-20.40.57:920][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_216)
+[2021.10.26-20.41.01:915][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_209)
+[2021.10.26-20.41.09:033][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_226)
+[2021.10.26-20.41.09:987][556]Cmd: EDIT COPY
+[2021.10.26-20.41.10:333][592]Cmd: EDIT PASTE
+[2021.10.26-20.41.10:547][611]Cmd: EDIT PASTE
+[2021.10.26-20.41.10:705][624]Cmd: EDIT PASTE
+[2021.10.26-20.41.10:869][638]Cmd: EDIT PASTE
+[2021.10.26-20.41.11:029][651]Cmd: EDIT PASTE
+[2021.10.26-20.41.11:181][664]Cmd: EDIT PASTE
+[2021.10.26-20.41.11:355][678]Cmd: EDIT PASTE
+[2021.10.26-20.41.15:174][ 29]Cmd: DELETE
+[2021.10.26-20.41.15:174][ 29]Cmd: ACTOR DELETE
+[2021.10.26-20.41.15:180][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.41.15:187][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.26-20.41.15:189][ 29]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.26-20.41.15:802][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_274)
+[2021.10.26-20.41.21:832][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_273)
+[2021.10.26-20.41.25:314][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_272)
+[2021.10.26-20.41.29:771][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_271)
+[2021.10.26-20.41.33:041][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_257)
+[2021.10.26-20.41.36:899][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_245)
+[2021.10.26-20.41.45:350][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.41.46:419][951]Cmd: EDIT COPY
+[2021.10.26-20.41.46:786][992]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:015][ 14]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:174][ 28]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:349][ 43]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:519][ 58]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:712][ 75]Cmd: EDIT PASTE
+[2021.10.26-20.41.47:902][ 92]Cmd: EDIT PASTE
+[2021.10.26-20.41.48:076][107]Cmd: EDIT PASTE
+[2021.10.26-20.41.48:242][120]Cmd: EDIT PASTE
+[2021.10.26-20.41.48:416][135]Cmd: EDIT PASTE
+[2021.10.26-20.41.48:610][152]Cmd: EDIT PASTE
+[2021.10.26-20.41.48:808][169]Cmd: EDIT PASTE
+[2021.10.26-20.41.49:011][187]Cmd: EDIT PASTE
+[2021.10.26-20.41.49:193][202]Cmd: EDIT PASTE
+[2021.10.26-20.41.49:394][219]Cmd: EDIT PASTE
+[2021.10.26-20.41.49:577][234]Cmd: EDIT PASTE
+[2021.10.26-20.41.49:749][248]Cmd: EDIT PASTE
+[2021.10.26-20.41.50:246][292]Cmd: EDIT PASTE
+[2021.10.26-20.41.50:622][325]Cmd: EDIT PASTE
+[2021.10.26-20.41.50:950][353]Cmd: EDIT PASTE
+[2021.10.26-20.41.51:333][386]Cmd: EDIT PASTE
+[2021.10.26-20.41.57:603][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_294)
+[2021.10.26-20.42.03:660][472]Cmd: DELETE
+[2021.10.26-20.42.03:660][472]Cmd: ACTOR DELETE
+[2021.10.26-20.42.03:667][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-20.42.03:674][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.26-20.42.03:677][472]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.10.26-20.42.08:921][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.42.10:607][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.42.10:733][148]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.10.26-20.42.14:724][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_293)
+[2021.10.26-20.42.20:320][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_292)
+[2021.10.26-20.42.24:617][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_291)
+[2021.10.26-20.42.28:417][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_290)
+[2021.10.26-20.42.31:505][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_289)
+[2021.10.26-20.42.34:666][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_288)
+[2021.10.26-20.42.38:486][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_287)
+[2021.10.26-20.42.44:659][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_286)
+[2021.10.26-20.42.48:138][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_285)
+[2021.10.26-20.42.51:615][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_284)
+[2021.10.26-20.42.55:693][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_283)
+[2021.10.26-20.42.59:373][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_282)
+[2021.10.26-20.43.03:148][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_281)
+[2021.10.26-20.43.07:149][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_280)
+[2021.10.26-20.43.10:869][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_279)
+[2021.10.26-20.43.15:225][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_278)
+[2021.10.26-20.43.23:004][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_277)
+[2021.10.26-20.44.06:996][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_276)
+[2021.10.26-20.44.10:805][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_275)
+[2021.10.26-20.44.13:611][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_243)
+[2021.10.26-20.44.24:829][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_287)
+[2021.10.26-20.44.25:752][562]Cmd: EDIT COPY
+[2021.10.26-20.44.25:992][590]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:165][607]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:331][623]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:486][638]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:643][653]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:801][668]Cmd: EDIT PASTE
+[2021.10.26-20.44.26:963][683]Cmd: EDIT PASTE
+[2021.10.26-20.44.27:136][700]Cmd: EDIT PASTE
+[2021.10.26-20.44.27:304][716]Cmd: EDIT PASTE
+[2021.10.26-20.44.27:480][733]Cmd: EDIT PASTE
+[2021.10.26-20.44.27:655][750]Cmd: EDIT PASTE
+[2021.10.26-20.44.27:796][763]Cmd: EDIT PASTE
+[2021.10.26-20.44.32:338][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_305)
+[2021.10.26-20.44.33:455][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_306)
+[2021.10.26-20.44.35:419][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_305)
+[2021.10.26-20.44.38:757][956]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.10.26-20.44.40:846][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_304)
+[2021.10.26-20.44.43:367][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_303)
+[2021.10.26-20.44.47:057][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_302)
+[2021.10.26-20.44.50:372][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_301)
+[2021.10.26-20.45.05:412][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-20.45.06:615][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_2)
+[2021.10.26-20.45.09:645][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_01)
+[2021.10.26-20.45.13:291][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_60)
+[2021.10.26-20.45.18:706][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_59)
+[2021.10.26-20.45.22:994][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_58)
+[2021.10.26-20.45.25:991][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_57)
+[2021.10.26-20.45.28:975][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_56)
+[2021.10.26-20.45.33:659][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_55)
+[2021.10.26-20.45.35:220][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_54)
+[2021.10.26-20.45.39:187][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_53)
+[2021.10.26-20.45.42:220][993]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Interior_Wall_52)
+[2021.10.26-20.45.42:904][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_52)
+[2021.10.26-20.45.47:702][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_51)
+[2021.10.26-20.45.52:040][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_50)
+[2021.10.26-20.45.54:900][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_49)
+[2021.10.26-20.45.57:881][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_48)
+[2021.10.26-20.45.59:569][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_47)
+[2021.10.26-20.46.05:918][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.26-20.46.05:991][565]LogSavePackage: Moving 'D:/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMapB86F88984394BC411D403CBB09BE78A0.tmp' to 'D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.26-20.46.06:004][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.10.26-20.46.06:104][565]LogSavePackage: Moving 'D:/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap_BuiltDataEF1BADAC4295C9B2A52FAF851E783CA8.tmp' to 'D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.26-20.46.06:118][565]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-20.46.06:118][565]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.26-20.46.06:118][565]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap

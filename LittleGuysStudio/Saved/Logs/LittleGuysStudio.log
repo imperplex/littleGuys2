@@ -999,3 +999,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-14.05.06:518][712]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.26-14.05.06:518][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.26-14.05.06:519][712]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.26-14.07.04:956][474]LogRenderer: Reallocating scene render targets to support 1172x1100 Format 10 NumSamples 1 (Frame:10074).
+[2021.10.26-14.09.10:324][419]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/littleGuys2/LittleGuysStudio/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-14.09.10:324][419]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/littleGuys2/LittleGuysStudio/Content/Developers/josec/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-14.09.10:324][419]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/littleGuys2/LittleGuysStudio/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-14.11.52:690][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.26-14.11.52:713][814]LogSavePackage: Moving '../../../Second_Game/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMapDE9ED21A4BA7FE3C3CC14C93B773B104.tmp' to '../../../Second_Game/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.26-14.11.52:859][814]LogSavePackage: Moving '../../../Second_Game/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap_BuiltDataC0103A1F43B7AD0FE3E6E3B0A8446DC5.tmp' to '../../../Second_Game/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.26-14.11.52:874][814]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-14.11.52:874][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.26-14.11.52:874][814]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap

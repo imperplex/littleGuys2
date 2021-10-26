@@ -945,3 +945,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-13.56.21:867][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.10.26-13.56.21:957][  3]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.10.26-13.56.23:741][193]LogSlate: Took 0.005067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.26-13.59.04:977][ 49]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.26-13.59.18:624][581]LogSlate: Window 'New Plugin' being destroyed
+[2021.10.26-13.59.18:630][581]LogSlate: Window 'New Plugin' being destroyed
+[2021.10.26-13.59.29:550][889]LogSlate: Window 'Plugins' being destroyed
+[2021.10.26-13.59.29:556][889]LogSlate: Window 'Plugins' being destroyed
+[2021.10.26-13.59.29:556][889]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.10.26-13.59.43:745][543]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.26-13.59.43:760][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.26-13.59.43:788][543]LogSavePackage: Moving '../../../Second_Game/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap4D602C9D4BDC6C62C0B5729B24A06614.tmp' to '../../../Second_Game/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.26-13.59.43:979][543]LogSavePackage: Moving '../../../Second_Game/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap_BuiltData3E53D5484981413D5743659A1FCA70F8.tmp' to '../../../Second_Game/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.26-13.59.43:992][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-13.59.43:992][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.26-13.59.43:992][543]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap

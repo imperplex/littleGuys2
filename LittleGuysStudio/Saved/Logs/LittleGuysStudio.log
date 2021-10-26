@@ -3201,3 +3201,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-21.26.25:577][268]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.26-21.26.25:577][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.26-21.26.25:577][268]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.26-21.26.48:726][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.26-21.26.48:840][552]LogSavePackage: Moving 'D:/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap857986B742B6021A9118DC9A9F584601.tmp' to 'D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.26-21.26.48:846][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.10.26-21.26.48:949][552]LogSavePackage: Moving 'D:/littleGuys2/LittleGuysStudio/Saved/ThirdPersonExampleMap_BuiltDataF01DB73A41D677833F50A3B0106A0A1B.tmp' to 'D:/littleGuys2/LittleGuysStudio/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.26-21.26.48:959][552]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-21.26.48:959][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.26-21.26.48:959][552]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
